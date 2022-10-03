@@ -1,0 +1,10 @@
+.Container{
+   
+    display: flex;
+}
+
+.bodyConatiner{   
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 100%;
+}
